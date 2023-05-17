@@ -28,7 +28,7 @@ Make sure to include any necessary quotation marks or escape characters if your 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.txt). Refer to the license file for more information.
+This project is licensed under the [GNU Affero General Public License v3.0](LICENSE.txt). Refer to the license file for more information.
 
 ## Contact
 
