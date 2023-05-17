@@ -2,7 +2,7 @@
 
 A command-line tool for searching text within JSON files.
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt)
+[![License](https://img.shields.io/badge/License-AGPL%20v3.0-blue.svg)](LICENSE.txt)
 
 ## Description
 
