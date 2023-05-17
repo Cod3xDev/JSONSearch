@@ -3,6 +3,7 @@
 A command-line tool for searching text within JSON files.
 
 [![License](https://img.shields.io/badge/License-AGPL%20v3.0-blue.svg)](LICENSE.txt)
+[![Downloads](https://img.shields.io/github/downloads/Cod3xDev/JSONSearch/total)](https://github.com/Cod3xDev/JSONSearch/releases)
 
 ## Description
 
@@ -32,4 +33,4 @@ This project is licensed under the [GNU Affero General Public License v3.0](LICE
 
 ## Contact
 
-For any questions, feedback, or inquiries, please contact Cod3xDev at Cod3xDev#1414 On Discord.
+For any questions, feedback, or inquiries, please contact me at Cod3xDev#1414 On Discord.
