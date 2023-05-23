@@ -33,4 +33,4 @@ This project is licensed under the [GNU Affero General Public License v3.0](LICE
 
 ## Contact
 
-For any questions, feedback, or inquiries, please contact me at Cod3xDev#1414 On Discord.
+For any questions, feedback, or inquiries, please contact me at Cod3xDev#0001 On Discord.
